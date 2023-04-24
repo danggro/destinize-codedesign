@@ -21,8 +21,8 @@ export default function Footer() {
               <h4 className="text-2xl font-bold text-black-500">Destinize</h4>
               <p className="text-sm leading-5 text-black-300">
                 Destinize adalah website atau layanan aplikasi yang membantu
-                kamu memilih atau merekomendasikan tempat yang dijuluki 'hidden
-                gems' agar lebih dikenal dan ramai{" "}
+                kamu memilih atau merekomendasikan tempat yang dijuluki
+                &apos;hidden gems&apos; agar lebih dikenal dan ramai{" "}
                 <Link
                   href={"/"}
                   className="font-bold text-primary hover:underline"
